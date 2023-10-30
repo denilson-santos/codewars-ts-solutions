@@ -12,7 +12,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 
 | Kata | Tags | Description | Solution | Codewars |
 |---|---|:---:|:---:|:---:|
-| [**String ends with?**](4kyuKatas/Human_readable_duration_format.md) | `Strings`, `Fundamentals` | [Click Here](7-kyu/strings-ends-with/description.md) | [Click Here](7-kyu/strings-ends-with/solution.ts) | [Click Here](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) |
+| **String ends with?** | `Strings`, `Fundamentals` | [Click Here](7-kyu/strings-ends-with/description.md) | [Click Here](7-kyu/strings-ends-with/solution.ts) | [Click Here](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) |
 
 
 <br>
