@@ -5,7 +5,7 @@ export class Kata {
     if (pin.length === 4 || pin.length === 6) {
       output = true;
 
-      pin.split("").forEach((item) => {
+      pin.split('').forEach((item) => {
         if (!Number.isInteger(parseInt(item))) output = false;
       });
     }
