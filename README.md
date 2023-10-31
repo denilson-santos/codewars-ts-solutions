@@ -12,6 +12,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 |---|---|:---:|:---:|:---:|
 | **Build a pile of Cubes** | `Algorithms`, `Mathematics` | [Click Here](6-kyu/build-a-pile-of-cubes/description.md) | [Click Here](6-kyu/build-a-pile-of-cubes/solution.ts) | [Click Here](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) |
 | **Count the smiley faces!** | `Fundamentals`, `Regular Expressions` | [Click Here](6-kyu/count-the-smiley-faces/description.md) | [Click Here](6-kyu/count-the-smiley-faces/solution.ts) | [Click Here](https://www.codewars.com/kata/583203e6eb35d7980400002a) |
+| **Decode the Morse code** | `Algorithms` | [Click Here](6-kyu/decode-the-morse-code/description.md) | [Click Here](6-kyu/decode-the-morse-code/solution.ts) | [Click Here](https://www.codewars.com/kata/54b724efac3d5402db00065e) |
 
 <br>
 
