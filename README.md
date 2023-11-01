@@ -6,11 +6,11 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 
 <br>
 
-## :dart: 5-kyu Katas
+## :dart:5-kyu Katas
 
 <br>
 
-| :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
+| :dart:Kata | :bookmark:Tags | :page_with_curl:Description | :white_check_mark:Solution | :link:Codewars |
 |---|---|:---:|:---:|:---:|
 | **Base64 Encoding** | `Algorithms`, `Binary`, `Strings` | [Click Here](5-kyu/base64-encoding/description.md) | [Click Here](5-kyu/base64-encoding/solution.ts) | [Click Here](https://www.codewars.com/kata/5270f22f862516c686000161) |
 | **Product of consecutive Fib numbers** | `Algorithms`, `Mathmatics` | [Click Here](5-kyu/product-of-consecutive-fib-numbers/description.md) | [Click Here](5-kyu/product-of-consecutive-fib-numbers/solution.ts) | [Click Here](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
@@ -18,11 +18,11 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 
 <br>
 
-## :dart: 6-kyu Katas
+## :dart:6-kyu Katas
 
 <br>
 
-| :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
+| :dart:Kata | :bookmark:Tags | :page_with_curl:Description | :white_check_mark:Solution | :link:Codewars |
 |---|---|:---:|:---:|:---:|
 | **Build a pile of Cubes** | `Algorithms`, `Mathematics` | [Click Here](6-kyu/build-a-pile-of-cubes/description.md) | [Click Here](6-kyu/build-a-pile-of-cubes/solution.ts) | [Click Here](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) |
 | **Count the smiley faces!** | `Fundamentals`, `Regular Expressions` | [Click Here](6-kyu/count-the-smiley-faces/description.md) | [Click Here](6-kyu/count-the-smiley-faces/solution.ts) | [Click Here](https://www.codewars.com/kata/583203e6eb35d7980400002a) |
@@ -31,11 +31,11 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 
 <br>
 
-## :dart: 7-kyu Katas
+## :dart:7-kyu Katas
 
 <br>
 
-| :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
+| :dart:Kata | :bookmark:Tags | :page_with_curl:Description | :white_check_mark:Solution | :link:Codewars |
 |---|---|:---:|:---:|:---:|
 | **Exes and Ohs** | `Fundamentals` | [Click Here](7-kyu/exes-and-ohs/description.md) | [Click Here](7-kyu/exes-and-ohs/solution.ts) | [Click Here](https://www.codewars.com/kata/55908aad6620c066bc00002a) |
 | **Get the Middle Character** | `Fundamentals`, `Strings` | [Click Here](7-kyu/get-the-middle-character/description.md) | [Click Here](7-kyu/get-the-middle-character/solution.ts) | [Click Here](https://www.codewars.com/kata/56747fd5cb988479af000028) |
