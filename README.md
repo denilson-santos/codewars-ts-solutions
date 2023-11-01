@@ -12,7 +12,8 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 
 | :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
 |---|---|:---:|:---:|:---:|
-| **Base64 Encoding** | `Algorithms`, `Binary`, `Algorithms` | [Click Here](5-kyu/base64-encoding/description.md) | [Click Here](5-kyu/base64-encoding/solution.ts) | [Click Here](https://www.codewars.com/kata/5270f22f862516c686000161) |
+| **Base64 Encoding** | `Algorithms`, `Binary`, `Strings` | [Click Here](5-kyu/base64-encoding/description.md) | [Click Here](5-kyu/base64-encoding/solution.ts) | [Click Here](https://www.codewars.com/kata/5270f22f862516c686000161) |
+| **Product of consecutive Fib numbers** | `Algorithms`, `Mathmatics` | [Click Here](5-kyu/product-of-consecutive-fib-numbers/description.md) | [Click Here](5-kyu/product-of-consecutive-fib-numbers/solution.ts) | [Click Here](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
 
 <br>
 
