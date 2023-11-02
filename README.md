@@ -15,6 +15,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 | **Base64 Encoding** | `Algo`, `Bin`, `Str` | [Click Here](5-kyu/base64-encoding/description.md) | [Click Here](5-kyu/base64-encoding/solution.ts) | [Click Here](https://www.codewars.com/kata/5270f22f862516c686000161) |
 | **Product of consecutive Fib numbers** | `Algo`, `Math` | [Click Here](5-kyu/product-of-consecutive-fib-numbers/description.md) | [Click Here](5-kyu/product-of-consecutive-fib-numbers/solution.ts) | [Click Here](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
 | **RGB To Hex Conversion** | `Algo` | [Click Here](5-kyu/rgb-to-hex-conversion/description.md) | [Click Here](5-kyu/rgb-to-hex-conversion/solution.ts) | [Click Here](https://www.codewars.com/kata/513e08acc600c94f01000001) |
+| **Simple Pig Latin** | `Algo`, `RegEx` | [Click Here](5-kyu/simple-pig-latin/description.md) | [Click Here](5-kyu/simple-pig-latin/solution.ts) | [Click Here](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
 
 <br>
 
