@@ -31,6 +31,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 | **Decode the Morse code** | `Algo` | [Click Here](6-kyu/decode-the-morse-code/description.md) | [Click Here](6-kyu/decode-the-morse-code/solution.ts) | [Click Here](https://www.codewars.com/kata/54b724efac3d5402db00065e) |
 | **Detect Pangram** | `DS`, `Fund`, `Str` | [Click Here](6-kyu/detect-pangram/description.md) | [Click Here](6-kyu/detect-pangram/solution.ts) | [Click Here](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
 | **Find The Parity Outlier** | `Algo` | [Click Here](6-kyu/find-the-parity-outlier/description.md) | [Click Here](6-kyu/find-the-parity-outlier/solution.ts) | [Click Here](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
+| **Meeting** | `Fund` | [Click Here](6-kyu/meeting/description.md) | [Click Here](6-kyu/meeting/solution.ts) | [Click Here](https://www.codewars.com/kata/59df2f8f08c6cec835000012) |
 
 <br>
 
