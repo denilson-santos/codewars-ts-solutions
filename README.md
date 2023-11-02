@@ -13,7 +13,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 | :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
 |---|---|:---:|:---:|:---:|
 | **Base64 Encoding** | `Algo`, `Bin`, `Str` | [Click Here](5-kyu/base64-encoding/description.md) | [Click Here](5-kyu/base64-encoding/solution.ts) | [Click Here](https://www.codewars.com/kata/5270f22f862516c686000161) |
-| **Product of consecutive Fib numbers** | `Algo`, `Math` | [Click Here](5-kyu/product-of-consecutive-fib-numbers/description.md) | [Click Here](5-kyu/product-of-consecutive-fib-numbers/solution.ts) | [Click Here](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
+| **Product of consecutive Fib nums** | `Algo`, `Math` | [Click Here](5-kyu/product-of-consecutive-fib-numbers/description.md) | [Click Here](5-kyu/product-of-consecutive-fib-numbers/solution.ts) | [Click Here](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
 | **RGB To Hex Conversion** | `Algo` | [Click Here](5-kyu/rgb-to-hex-conversion/description.md) | [Click Here](5-kyu/rgb-to-hex-conversion/solution.ts) | [Click Here](https://www.codewars.com/kata/513e08acc600c94f01000001) |
 | **Simple Pig Latin** | `Algo`, `RegEx` | [Click Here](5-kyu/simple-pig-latin/description.md) | [Click Here](5-kyu/simple-pig-latin/solution.ts) | [Click Here](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
 | **Vector class** | `Algo`, `Lin.Alg`, `POO` | [Click Here](5-kyu/vector-class/description.md) | [Click Here](5-kyu/vector-class/solution.ts) | [Click Here](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4) |
@@ -30,6 +30,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 | **Count the smiley faces!** | `Fund`, `RegEx` | [Click Here](6-kyu/count-the-smiley-faces/description.md) | [Click Here](6-kyu/count-the-smiley-faces/solution.ts) | [Click Here](https://www.codewars.com/kata/583203e6eb35d7980400002a) |
 | **Decode the Morse code** | `Algo` | [Click Here](6-kyu/decode-the-morse-code/description.md) | [Click Here](6-kyu/decode-the-morse-code/solution.ts) | [Click Here](https://www.codewars.com/kata/54b724efac3d5402db00065e) |
 | **Detect Pangram** | `DS`, `Fund`, `Str` | [Click Here](6-kyu/detect-pangram/description.md) | [Click Here](6-kyu/detect-pangram/solution.ts) | [Click Here](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
+| **Find The Parity Outlier** | `Algo` | [Click Here](6-kyu/find-the-parity-outlier/description.md) | [Click Here](6-kyu/find-the-parity-outlier/solution.ts) | [Click Here](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
 
 <br>
 
