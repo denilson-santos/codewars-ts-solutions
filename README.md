@@ -34,6 +34,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 | **Meeting** | `Fund` | [Click Here](6-kyu/meeting/description.md) | [Click Here](6-kyu/meeting/solution.ts) | [Click Here](https://www.codewars.com/kata/59df2f8f08c6cec835000012) |
 | **Persistent Bugger** | `Fund` | [Click Here](6-kyu/persistent-bugger/description.md) | [Click Here](6-kyu/persistent-bugger/solution.ts) | [Click Here](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) |
 | **Roman Numerals Encoder** | `Algo` | [Click Here](6-kyu/roman-numerals-encoder/description.md) | [Click Here](6-kyu/roman-numerals-encoder/solution.ts) | [Click Here](https://www.codewars.com/kata/51b62bf6a9c58071c600001b) |
+| **Stop gninnipS My sdroW!** | `Algo`, `Str` | [Click Here](6-kyu/stop-gninnips-my-sdrow/description.md) | [Click Here](6-kyu/stop-gninnips-my-sdrow/solution.ts) | [Click Here](https://www.codewars.com/kata/5264d2b162488dc400000001) |
 
 <br>
 
