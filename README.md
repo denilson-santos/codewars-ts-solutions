@@ -33,6 +33,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 | **Find The Parity Outlier** | `Algo` | [Click Here](6-kyu/find-the-parity-outlier/description.md) | [Click Here](6-kyu/find-the-parity-outlier/solution.ts) | [Click Here](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
 | **Meeting** | `Fund` | [Click Here](6-kyu/meeting/description.md) | [Click Here](6-kyu/meeting/solution.ts) | [Click Here](https://www.codewars.com/kata/59df2f8f08c6cec835000012) |
 | **Persistent Bugger** | `Fund` | [Click Here](6-kyu/persistent-bugger/description.md) | [Click Here](6-kyu/persistent-bugger/solution.ts) | [Click Here](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) |
+| **Roman Numerals Encoder** | `Algo` | [Click Here](6-kyu/roman-numerals-encoder/description.md) | [Click Here](6-kyu/roman-numerals-encoder/solution.ts) | [Click Here](https://www.codewars.com/kata/51b62bf6a9c58071c600001b) |
 
 <br>
 
