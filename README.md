@@ -11,8 +11,9 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 <br>
 
 | :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
-|---|---|:---:|:---:|:---:|
+|:---|:---|:---:|:---:|:---:|
 | **Base64 Encoding** | `Algo`, `Bin`, `Str` | [Click Here](5-kyu/base64-encoding/description.md) | [Click Here](5-kyu/base64-encoding/solution.ts) | [Click Here](https://www.codewars.com/kata/5270f22f862516c686000161) |
+| **PaginationHelper** | `Algo` `Arr`, `POO` | [Click Here](5-kyu/pagination-helper/description.md) | [Click Here](5-kyu/pagination-helper/solution.ts) | [Click Here](https://www.codewars.com/kata/515bb423de843ea99400000a) |
 | **Product of consecutive Fib nums** | `Algo`, `Math` | [Click Here](5-kyu/product-of-consecutive-fib-numbers/description.md) | [Click Here](5-kyu/product-of-consecutive-fib-numbers/solution.ts) | [Click Here](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
 | **RGB To Hex Conversion** | `Algo` | [Click Here](5-kyu/rgb-to-hex-conversion/description.md) | [Click Here](5-kyu/rgb-to-hex-conversion/solution.ts) | [Click Here](https://www.codewars.com/kata/513e08acc600c94f01000001) |
 | **Simple Pig Latin** | `Algo`, `RegEx` | [Click Here](5-kyu/simple-pig-latin/description.md) | [Click Here](5-kyu/simple-pig-latin/solution.ts) | [Click Here](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
@@ -25,7 +26,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 <br>
 
 | :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
-|---|---|:---:|:---:|:---:|
+|:---|:---|:---:|:---:|:---:|
 | **Build a pile of Cubes** | `Algo`, `Math` | [Click Here](6-kyu/build-a-pile-of-cubes/description.md) | [Click Here](6-kyu/build-a-pile-of-cubes/solution.ts) | [Click Here](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) |
 | **Count the smiley faces!** | `Fund`, `RegEx` | [Click Here](6-kyu/count-the-smiley-faces/description.md) | [Click Here](6-kyu/count-the-smiley-faces/solution.ts) | [Click Here](https://www.codewars.com/kata/583203e6eb35d7980400002a) |
 | **Decode the Morse code** | `Algo` | [Click Here](6-kyu/decode-the-morse-code/description.md) | [Click Here](6-kyu/decode-the-morse-code/solution.ts) | [Click Here](https://www.codewars.com/kata/54b724efac3d5402db00065e) |
@@ -43,7 +44,7 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 <br>
 
 | :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
-|---|---|:---:|:---:|:---:|
+|:---|:---|:---:|:---:|:---:|
 | **Exes and Ohs** | `Fund` | [Click Here](7-kyu/exes-and-ohs/description.md) | [Click Here](7-kyu/exes-and-ohs/solution.ts) | [Click Here](https://www.codewars.com/kata/55908aad6620c066bc00002a) |
 | **Get the Middle Character** | `Fund`, `Str` | [Click Here](7-kyu/get-the-middle-character/description.md) | [Click Here](7-kyu/get-the-middle-character/solution.ts) | [Click Here](https://www.codewars.com/kata/56747fd5cb988479af000028) |
 | **Mumbling** | `Fund`, `Str`, `Pzl` | [Click Here](7-kyu/mumbling/description.md) | [Click Here](7-kyu/mumbling/solution.ts) | [Click Here](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/typescript) |
