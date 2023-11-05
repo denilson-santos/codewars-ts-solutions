@@ -53,4 +53,12 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 
 <br>
 
+## :dart: 8-kyu Katas
+
+<br>
+
+| :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
+|:---|:---|:---:|:---:|:---:|
+| **Multiply** | `Debug`, `Fund` | [Click Here](8-kyu/multiply/description.md) | [Click Here](8-kyu/multiply/solution.ts) | [Click Here](https://www.codewars.com/kata/50654ddff44f800200000004) |
+
 ---
