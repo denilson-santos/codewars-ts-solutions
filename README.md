@@ -6,6 +6,16 @@ Join [Codewars](https://www.codewars.com/r/J-Wshw) and [Follow Me](https://www.c
 
 <br>
 
+## :dart: 4-kyu Katas
+
+<br>
+
+| :dart: Kata | :bookmark: Tags | :page_with_curl: Description | :white_check_mark: Solution | :link: Codewars |
+|:---|:---|:---:|:---:|:---:|
+| **Twice linear** | `Algo`, `Math` | [Click Here](4-kyu/twice-linear/description.md) | [Click Here](4-kyu/twice-linear/solution.ts) | [Click Here](https://www.codewars.com/kata/5672682212c8ecf83e000050) |
+
+<br>
+
 ## :dart: 5-kyu Katas
 
 <br>
